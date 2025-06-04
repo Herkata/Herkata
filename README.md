@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kata!
 
-🎯 **Mechatronics Engineer** | 🛠️ **Maker & Educator** | 📊 **Data Scienctist** | 💃 **Jazz Dance & Crafting Enthusiast**
+🎯 **Mechatronics Engineer** | 🛠️ **Maker & Educator** | 📊 **Data Scientist** | 💃 **Jazz Dance & Crafting Enthusiast**
 
 Welcome to my GitHub! I thrive at the intersection of creativity, technology, and curiosity—whether it’s building a robot, analyzing data, or crafting a piece of clothing from scratch.
 
@@ -12,17 +12,22 @@ As a **mechatronics engineer**, I specialize in blending mechanics, electronics,
 
 ### 🔋 The Garage-Born E-Moped  
 🛵 Built using upcycled materials and custom solutions—aka “I used whatever I found in the garage and tinkered until it worked.”  
-[![20190424_172949](https://github.com/user-attachments/assets/2b8dade5-e235-42fe-b293-8c3fb91e6d9a)](https://github.com/user-attachments/assets/2b8dade5-e235-42fe-b293-8c3fb91e6d9a)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b8dade5-e235-42fe-b293-8c3fb91e6d9a" width="300"/>
+</p>
 
 ---
 
 ## 🧠 Educator & Community Advocate
 
-- 👩‍🏫 4 years as a **developer at an [ed-tech company](https://makersredbox.com/)**, crafting interactive learning experiences
-    ![IMG_0155](https://github.com/user-attachments/assets/7dc48999-4979-406c-a3f6-0fa2d985e6f8)
+- 👩‍🏫 4 years as a **developer at an [ed-tech company](https://makersredbox.com/)**, crafting interactive learning experiences  
+  <img src="https://github.com/user-attachments/assets/7dc48999-4979-406c-a3f6-0fa2d985e6f8" width="300"/>
+  
 - 🌱 **Student ambassador** for the *Association of Hungarian Women in Science ([NaTE](https://nokatud.hu/eng/))*  
-- 🚀 **Startup CTO** on a university project, leading a team from concept to prototype [_Dimedser_](https://www.dimedser.com/)
-  ![IMG_2920 JPG másolata](https://github.com/user-attachments/assets/3ef9d144-13ae-4206-bf65-4c831d6bfdc9)
+- 🚀 **Startup CTO** on a university project, leading a team from concept to prototype: [_Dimedser_](https://www.dimedser.com/)  
+  <img src="https://github.com/user-attachments/assets/3ef9d144-13ae-4206-bf65-4c831d6bfdc9" width="300"/>
+  
 - 💬 Passionate about tech outreach, mentoring, and accessible STEM education
 
 ---
@@ -31,29 +36,31 @@ As a **mechatronics engineer**, I specialize in blending mechanics, electronics,
 
 I love the energy of building fast, thinking creatively, and delivering under pressure.
 
-- 💻 Frequent **hackathon participant**, often focusing on tech-for-good, education
-  - Richter MindRun 2023 - Mental Health App for teens
-    ![IMG_4524](https://github.com/user-attachments/assets/a4ab8705-d39a-4009-8452-65c90daabe9b)
+- 💻 Frequent **hackathon participant**, often focusing on tech-for-good, education, and healthcare
 
-  - Junction X Budapest 2023 - Calendar app for treatment planning optimization
-  - ![IMG_4615](https://github.com/user-attachments/assets/834e9d1b-c176-49d4-986f-b10ae75a156d)
+**🧠 Richter MindRun 2023 — Mental Health App for Teens**  
+<img src="https://github.com/user-attachments/assets/a4ab8705-d39a-4009-8452-65c90daabe9b" width="300"/>
 
-  - MOME Social Impact Hackathon 2023 - AI-based solution for renting retail units in municipality property - 1st prize
-    ![IMG_4664](https://github.com/user-attachments/assets/e16f7fe6-69df-4283-ad25-742488e55722)
+**📅 Junction X Budapest 2023 — Calendar App for Treatment Planning**  
+<img src="https://github.com/user-attachments/assets/834e9d1b-c176-49d4-986f-b10ae75a156d" width="300"/>
 
-    - [British Council AI for the common good 2024](https://www.linkedin.com/posts/khernad_strongertogether-europe-ai-activity-7195472962920103936-bIWh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnK75kBPhzZano10M2OtMtaE78UV5dWnCU) - study trip to get to know the other participating countries' solutions
-  - NASA Space Apps Challenge - Mapping solution to visualize social factors influencing well-being indicators in Eastern Europe
-    <img width="940" alt="map" src="https://github.com/user-attachments/assets/f21c7bcb-cb67-4c82-b637-82f01b0abc56" />
+**🏆 MOME Social Impact Hackathon 2023 — AI-Based Retail Rental Assistant (1st Prize)**  
+<img src="https://github.com/user-attachments/assets/e16f7fe6-69df-4283-ad25-742488e55722" width="300"/>
 
-    
-- 🧠 I thrive in idea sprints, building MVPs with whatever tools are at hand (microcontrollers, APIs, cardboard… you name it)
+**🤖 NASA Space Apps — Visualizing Socio-Economic Well-being in Eastern Europe**  
+<img src="https://github.com/user-attachments/assets/f21c7bcb-cb67-4c82-b637-82f01b0abc56" width="300"/>
+
+**🌍 British Council: AI for the Common Good 2024**  
+[Study trip link](https://www.linkedin.com/posts/khernad_strongertogether-europe-ai-activity-7195472962920103936-bIWh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnK75kBPhzZano10M2OtMtaE78UV5dWnCU)
+
+- 🧠 I thrive in idea sprints, building MVPs with whatever tools are at hand (microcontrollers, APIs, cardboard… you name it)  
 - 🤝 Highlights include team-based prototypes that made it to presentations, concept demos, and academic showcases
 
 ---
 
 ## 📊 Data Science Journey
 
-My newest passion after freshly graduating from [**Turing College**](https://www.turingcollege.com/): making sense of messy data and using it to build smart systems.
+My newest passion after graduating from [**Turing College**](https://www.turingcollege.com/): making sense of messy data and using it to build smart systems.
 
 - Data wrangling with **pandas**
 - Predictive modeling with **scikit-learn**
@@ -68,11 +75,10 @@ When I’m not building things, I’m:
 
 - 💃 Dancing jazz and swing  
 - ✂️ Crafting, clothing swaps and workshops  
-- 🧠 Exploring how education, healthcare, and tech overlap in surprising ways
+- 🧠 Exploring how education, healthcare, and tech overlap in surprising ways  
 
-Hosting a clothing swap and textile painting workhop with my sister
-![IMG_3188](https://github.com/user-attachments/assets/68183be7-9c96-477c-aaef-361165afdb5b)
-
+**Hosting a clothing swap and textile painting workshop with my sister**  
+<img src="https://github.com/user-attachments/assets/68183be7-9c96-477c-aaef-361165afdb5b" width="300"/>
 
 ---
 
@@ -81,18 +87,15 @@ Hosting a clothing swap and textile painting workhop with my sister
 - [x] Self-built e-moped (see above 👆)  
 - [x] Smart solutions to bring kids' futuristic ideas to life
 
-Imitating an earthquake for a signal system in the 'City of the Future'
-
-https://github.com/user-attachments/assets/ef2853a2-fe0c-42ab-b807-eb0399b963e7
-
-
+**Imitating an earthquake for a signal system in the 'City of the Future'**  
+<img src="https://github.com/user-attachments/assets/ef2853a2-fe0c-42ab-b807-eb0399b963e7" width="300"/>
 
 ---
 
 ## 🌱 Currently Learning
- 
-- Advanced ML pipelines
-- Deep Learning
+
+- Advanced ML pipelines  
+- Deep Learning  
 - Robust Model Deployment  
 - Cross-disciplinary creativity (tech × art × education)
 
@@ -102,7 +105,8 @@ https://github.com/user-attachments/assets/ef2853a2-fe0c-42ab-b807-eb0399b963e7
 
 Interested in collaborating, learning together, or chatting about interdisciplinary project crossovers?
 
-- 📫 [LinkedIn]([#](https://www.linkedin.com/in/khernad/))
+- 📫 [LinkedIn](https://www.linkedin.com/in/khernad/)
+
 ---
 
 Thanks for visiting! I’m always learning, always building—stay tuned 🌟
