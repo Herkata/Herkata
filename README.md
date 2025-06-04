@@ -103,8 +103,9 @@ When I’m not building things, I’m:
 
 **Imitating an earthquake for a signal system in the 'City of the Future'**  
 <p align="center">
-  [Watch the demo!](https://imgur.com/a/OlHnqJD)
+  <a href="https://imgur.com/a/OlHnqJD">▶️ Watch the demo!</a>
 </p>
+
 
 ---
 
