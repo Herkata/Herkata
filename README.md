@@ -103,7 +103,7 @@ When I’m not building things, I’m:
 
 **Imitating an earthquake for a signal system in the 'City of the Future'**  
 <p align="center">
-https://github.com/user-attachments/assets/719ca0c3-3e2d-426f-abc4-754382eee0e8
+[https://github.com/user-attachments/assets/719ca0c3-3e2d-426f-abc4-754382eee0e8](https://imgur.com/a/OlHnqJD)
 </p>
 
 ---
