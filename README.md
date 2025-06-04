@@ -38,20 +38,24 @@ I love the energy of building fast, thinking creatively, and delivering under pr
 
 - 💻 Frequent **hackathon participant**, often focusing on tech-for-good, education, and healthcare
 
-**🧠 Richter MindRun 2023 — Mental Health App for Teens**  
-<img src="https://github.com/user-attachments/assets/a4ab8705-d39a-4009-8452-65c90daabe9b" width="300"/>
+    - **🧠 Richter MindRun 2023 — Mental Health App for Teens**
+      
+    <img src="https://github.com/user-attachments/assets/a4ab8705-d39a-4009-8452-65c90daabe9b" width="300"/>
 
-**📅 Junction X Budapest 2023 — Calendar App for Treatment Planning**  
-<img src="https://github.com/user-attachments/assets/834e9d1b-c176-49d4-986f-b10ae75a156d" width="300"/>
+    - **📅 Junction X Budapest 2023 — Calendar App for Treatment Planning**
+      
+    <img src="https://github.com/user-attachments/assets/834e9d1b-c176-49d4-986f-b10ae75a156d" width="300"/>
 
-**🏆 MOME Social Impact Hackathon 2023 — AI-Based Retail Rental Assistant (1st Prize)**  
-<img src="https://github.com/user-attachments/assets/e16f7fe6-69df-4283-ad25-742488e55722" width="300"/>
+    - **🏆 MOME Social Impact Hackathon 2023 — AI-Based Retail Rental Assistant (1st Prize)**
+      
+    <img src="https://github.com/user-attachments/assets/e16f7fe6-69df-4283-ad25-742488e55722" width="300"/>
 
-**🤖 NASA Space Apps — Visualizing Socio-Economic Well-being in Eastern Europe**  
-<img src="https://github.com/user-attachments/assets/f21c7bcb-cb67-4c82-b637-82f01b0abc56" width="300"/>
+    - **🤖 NASA Space Apps — Visualizing Socio-Economic Well-being in Eastern Europe**
+      
+    <img src="https://github.com/user-attachments/assets/f21c7bcb-cb67-4c82-b637-82f01b0abc56" width="300"/>
 
-**🌍 British Council: AI for the Common Good 2024**  
-[Study trip link](https://www.linkedin.com/posts/khernad_strongertogether-europe-ai-activity-7195472962920103936-bIWh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnK75kBPhzZano10M2OtMtaE78UV5dWnCU)
+    - **🌍 British Council: AI for the Common Good 2024**
+    [Study trip link](https://www.linkedin.com/posts/khernad_strongertogether-europe-ai-activity-7195472962920103936-bIWh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnK75kBPhzZano10M2OtMtaE78UV5dWnCU)
 
 - 🧠 I thrive in idea sprints, building MVPs with whatever tools are at hand (microcontrollers, APIs, cardboard… you name it)  
 - 🤝 Highlights include team-based prototypes that made it to presentations, concept demos, and academic showcases
@@ -78,6 +82,7 @@ When I’m not building things, I’m:
 - 🧠 Exploring how education, healthcare, and tech overlap in surprising ways  
 
 **Hosting a clothing swap and textile painting workshop with my sister**  
+
 <img src="https://github.com/user-attachments/assets/68183be7-9c96-477c-aaef-361165afdb5b" width="300"/>
 
 ---
@@ -87,7 +92,8 @@ When I’m not building things, I’m:
 - [x] Self-built e-moped (see above 👆)  
 - [x] Smart solutions to bring kids' futuristic ideas to life
 
-**Imitating an earthquake for a signal system in the 'City of the Future'**  
+**Imitating an earthquake for a signal system in the 'City of the Future'** 
+
 <img src="https://github.com/user-attachments/assets/ef2853a2-fe0c-42ab-b807-eb0399b963e7" width="300"/>
 
 ---
