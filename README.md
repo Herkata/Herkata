@@ -122,7 +122,10 @@ When I’m not building things, I’m:
 
 Interested in collaborating, learning together, or chatting about interdisciplinary project crossovers?
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/khernad/)
+- [LinkedIn](https://www.linkedin.com/in/khernad/)
+- [Kaggle](https://www.kaggle.com/kataherndi)
+- [Codewars](https://www.codewars.com/users/Herkata1)
+- [HackerRank](https://www.hackerrank.com/profile/kherna)
 
 ---
 
